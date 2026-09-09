@@ -1,0 +1,19 @@
+body{
+    background-color: whitesmoke;
+    border : 5px dotted red;
+    color: blue;
+}
+
+h1{
+    color: blue;
+}
+h2{
+    color: bisque;
+}
+
+.tutu
+{color: deeppink;
+}
+#intro{
+    background-color: lightyellow;
+}
